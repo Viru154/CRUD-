@@ -4,7 +4,7 @@
 
 
 using namespace std;
-const char *nombe_archivo = "listadoSTD.dat";
+const char *nombe_archivo = "listado154.dat";
 
 struct Estudiante{
 	int codigo;
