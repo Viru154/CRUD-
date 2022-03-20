@@ -74,6 +74,7 @@ void buscar_indice(){
 	
 }
 
+//Tesuto tekisuto
 
 void ingresar_estudiante(){
 	
